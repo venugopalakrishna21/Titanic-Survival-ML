@@ -45,5 +45,9 @@ Confusion Matrix for Logistic Regression:
 5. Confusion Matrix Visualization
 
 ---
+## 📊 Output
+
+Confusion Matrix for Logistic Regression:
+![Confusion Matrix](titanic_confusion_matrix.png)
 
 ## ✅ Completed as part of **OutriX AI/ML Internship**
